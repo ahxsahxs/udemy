@@ -2,6 +2,6 @@
 Udemy Courses
 
 Just a repository to maintain my courses
-*maybe you could use like a reference*
+_maybe you could use like a reference_
 
 1st course -> Python for Data Science and Machine Learning
